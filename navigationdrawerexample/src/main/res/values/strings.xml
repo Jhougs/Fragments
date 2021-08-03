@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NavigationDrawerExample</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="title_Batman">batman</string>
+    <string name="title_Superman">Batman</string>
+    <string name="title_Wonder_woman">Wonder Woman</string>
+    <string name="title_Flash">Flash</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="powers_superman">" super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor"</string>
+    <string name="alias_superman">" Clark Kent, Kal-El"</string>
+    <string name="powers_Wonder_Woman">" super strength, invulnerability, flight, combat skill, combat strategy, superhuman agility, healing factor, magic weaponry"</string>
+    <string name="alias_wonder_woman">" Diana Prince"</string>
+    <string name="powers_flash">" super speed, intangibility, superhuman agility, time travel, creates and controls lightning, multiversal knowledge"</string>
+    <string name="alias_flash">" Barry Allen, Jay Garrick, Wally West"</string>
+    <string name="powers_batman">" exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology"</string>
+    <string name="alias_batman">Bruce Wayne</string>
+    <string name="next">Siguiente</string>
+    <string name="title_superman">Superman</string>
+</resources>

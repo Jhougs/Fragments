@@ -1,0 +1,5 @@
+include ':otherexample'
+include ':navigationdrawerexample'
+include ':bottonnavigationexample'
+include ':app'
+rootProject.name = "Fragments"
